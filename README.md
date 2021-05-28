@@ -38,3 +38,10 @@
 Сделать фильтр для всех источников
 Сделать фильтр для кампаний и воронки
 Сделать общий фильтр по месяцам
+
+# Результат аналитики
+https://github.com/Andreyb2/SF-Project-03-Marketing-Analytics/blob/main/Case3_Andrey_Bryatkov_Marketing_Analytics.pbix
+https://github.com/Andreyb2/SF-Project-03-Marketing-Analytics/blob/main/Case3_Andrey_Bryatkov_Marketing_Analytics.pdf
+
+# Публикация в Microsoft Power BI Service
+Доступно для учетных записей внутри организации SkillFactory https://app.powerbi.com/links/x-I2XMyJaj?ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d&pbi_source=linkShare
